@@ -38,8 +38,10 @@ body{
   margin-bottom: 50px;
 }
 
-.finalScore {
+.score {
 	font-size: 30px;
+	background-color: #dbf1f9;
+	font-family: 'Merienda', cursive;
 }
 
 .random,
