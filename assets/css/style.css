@@ -1,0 +1,51 @@
+.container{
+	background-color: #dbf1f9;
+}
+
+#gameNAme{
+	font-family: 'Merienda', cursive;
+	font-weight: bold;
+
+}
+body{
+	text-align: center;
+	background-color: #dbf1f9;
+	font-family: 'Merienda', cursive;
+}
+
+.instructions{
+    margin-bottom: 10px;
+    font: 35px;
+    color: black;
+    font-family: 'Merienda', cursive;
+    background-color: #dbf1f9;
+}
+
+.click{
+  width:80px;
+  height:80px;
+}
+
+.row1{
+	font-family: 'Merienda', cursive;
+	font-weight: bold;
+}
+
+.row4 {
+  background-color: #dbf1f9;
+  color: black;
+  font: 25px;
+  margin-bottom: 50px;
+}
+
+.finalScore {
+	font-size: 30px;
+}
+
+.random,
+.results,
+.finalScore {
+	font-size: 30px;
+	background-color: #dbf1f9;
+	font-family: 'Merienda', cursive;
+}
