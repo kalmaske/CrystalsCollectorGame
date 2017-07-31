@@ -1,5 +1,8 @@
 .container{
-	background-color: #dbf1f9;
+	background-color: #d0d6e0;
+	/*background-image: url("../images/background.png");
+	background-size: cover;
+	background-repeat: no-repeat center center fixed;*/
 }
 
 #gameNAme{
@@ -7,10 +10,12 @@
 	font-weight: bold;
 
 }
-body{
+body,
+h3{
 	text-align: center;
-	background-color: #dbf1f9;
+	background-color: #d0d6e0;
 	font-family: 'Merienda', cursive;
+	margin-top: 0;
 }
 
 .instructions{
@@ -18,7 +23,7 @@ body{
     font: 35px;
     color: black;
     font-family: 'Merienda', cursive;
-    background-color: #dbf1f9;
+    background-color: #d0d6e0;
 }
 
 .click{
@@ -32,7 +37,7 @@ body{
 }
 
 .row4 {
-  background-color: #dbf1f9;
+  background-color: #d0d6e0;
   color: black;
   font: 25px;
   margin-bottom: 50px;
@@ -40,14 +45,15 @@ body{
 
 .score {
 	font-size: 30px;
-	background-color: #dbf1f9;
+	background-color: #d0d6e0;
 	font-family: 'Merienda', cursive;
 }
 
 .random,
 .results,
-.finalScore {
+.finalScore,
+h3 {
 	font-size: 30px;
-	background-color: #dbf1f9;
+	background-color: #d0d6e0;
 	font-family: 'Merienda', cursive;
 }

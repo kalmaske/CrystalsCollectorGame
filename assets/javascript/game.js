@@ -12,6 +12,10 @@ var crystal1 = Math.floor((Math.random() * 12) + 1);
 var crystal2 = Math.floor((Math.random() * 12) + 1);
 var crystal3 = Math.floor((Math.random() * 12) + 1);
 var crystal4 = Math.floor((Math.random() * 12) + 1);
+console.log("1 is " +crystal1);
+console.log("2 is " +crystal2);
+console.log("3 is " +crystal3);
+console.log("4 is " +crystal4);
 
 //updating scores total, wins, and losses
 var updatedScore = function() {
@@ -38,6 +42,7 @@ var restartGame = function() {
 	var crystal2 = Math.floor((Math.random() * 12) + 1);
 	var crystal3 = Math.floor((Math.random() * 12) + 1);
 	var crystal4 = Math.floor((Math.random() * 12) + 1);
+	
 
 	updatedScore();
 
