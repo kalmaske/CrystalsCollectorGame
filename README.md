@@ -24,4 +24,4 @@ To that end, do not refresh the page as a means to restart the game.
 
 have fun playing !!
 
-https://kalmaske.github.io/week-4-game/index.html
+https://kalmaske.github.io/CrystalsCollectorGame/index.html
