@@ -21,3 +21,7 @@ Also, all the crystals will have four new hidden values, and the player's score 
 The app should show the number of games the player wins and loses. 
 
 To that end, do not refresh the page as a means to restart the game.
+
+have fun playing !!
+
+https://kalmaske.github.io/week-4-game/index.html
